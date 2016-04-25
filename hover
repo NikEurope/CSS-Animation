@@ -3,9 +3,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <style type="text/css">
-body > div
-{
+<style type="text/css">
+div{
             width:483px;
             height:298px;
             background:#676470;
