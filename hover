@@ -7,7 +7,7 @@
         body > div
         {
             
-            margin:121px 149px;
+            margin:1%;
             
             width:100%;
             height:500px;
@@ -20,7 +20,7 @@
             font-size:3.4em;
             
             text-align:center;
-            line-height:298px;
+            line-height:50%;
             
             transition:all 0.3s;
             
