@@ -1,22 +1,45 @@
-
-
 <!DOCTYPE html>
 <html>
 <head>
-<style type="text/css">
-div{
+<link href='http://fonts.googleapis.com/css?family=Lato:900' rel='stylesheet' type='text/css'>
+    <style type="text/css">
+        
+        body > div
+        {
+            
+            margin:121px 149px;
+            
             width:100%;
             height:500px;
+            
             background:#676470;
-            transition:all 0.3s ease;
-}
-</style>
-
+            color:#fff;
+            
+            font-family:Lato;
+            font-weight:1000;
+            font-size:3.4em;
+            
+            text-align:center;
+            line-height:298px;
+            
+            transition:all 0.3s;
+            
+        }
+        
+        .hover
+        {
+            opacity:0.6;
+        }
+        .hover:hover
+        {
+            opacity:1;
+        }
+        
+    </style>
 </head>
 <body>
-    <div>HOVER</div>
+    
+<div class="hover">HOVER</div>
+    
 </body>
 </html>
-
-
-
