@@ -12,7 +12,7 @@ Color https://htmlpreview.github.io/?https://github.com/NikEurope/cssanimation/b
 
 Croitre https://htmlpreview.github.io/?https://github.com/NikEurope/CSS-Hover-Animation/blob/master/croitre.html
 
-https://htmlpreview.github.io/?https://github.com/NikEurope/CSS-Hover-Animation/blob/master/ombre.html
+3D Ombre https://htmlpreview.github.io/?https://github.com/NikEurope/CSS-Hover-Animation/blob/master/ombre.html
 
 
 
