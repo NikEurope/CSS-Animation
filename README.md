@@ -14,8 +14,7 @@ Croitre https://htmlpreview.github.io/?https://github.com/NikEurope/CSS-Hover-An
 
 3D Ombre https://htmlpreview.github.io/?https://github.com/NikEurope/CSS-Hover-Animation/blob/master/ombre.html
 
+Retrecir https://htmlpreview.github.io/?https://github.com/NikEurope/CSS-Hover-Animation/blob/master/retrecir.html
 
-
-
-
+Rotation https://htmlpreview.github.io/?https://github.com/NikEurope/CSS-Hover-Animation/blob/master/rotation.html
 
