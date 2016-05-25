@@ -18,3 +18,4 @@ Retrecir https://htmlpreview.github.io/?https://github.com/NikEurope/CSS-Hover-A
 
 Rotation https://htmlpreview.github.io/?https://github.com/NikEurope/CSS-Hover-Animation/blob/master/rotation.html
 
+Progress-bars  https://htmlpreview.github.io/?https://github.com/NikEurope/CSS-Hover-Animation/blob/master/Progress-bars.html
