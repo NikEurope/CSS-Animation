@@ -1,0 +1,114 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//FR">
+
+<html>
+<head>
+
+<meta charset="UTF-8">
+
+<style>
+
+*{
+  margin:0;
+  padding: 0;
+  font-family: Arial;
+}
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+
+div.conteneur0{
+  background-image: url(img/art.jpg);
+  background-size: 100%;
+  background-attachment: fixed;
+  opacity: 0.8;
+  z-index: -1;
+}
+div.block0{
+  height: 700px;
+  width: 100%;
+  text-align: center;
+  font-family:Verdana,sans-serif;
+  padding: 10%;
+}
+
+.logo1 {
+    width: 250px; height:250px;
+    margin: 2em auto;
+    background: #cce5ff(0, 0, 255, 0.9);
+    border: 10px solid red;
+    border-radius: 30px;
+    transition: border-radius 2s, border-color 3s; /* transition when the mouse leave */
+  }
+
+  .logo1:hover {
+    border-color: #333;
+    transform: rotate(1080deg);
+    border-radius: 50%;
+    transition: all 3s; /* transition  mouse */
+  }
+
+  /* sorry, i need to play */
+  .logo1:after {
+    content: "NG";
+    position:relative;
+    top: 28px;
+    left:0px;
+    font-size: 9em;
+    font-family: arial;
+    color:#333;
+    opacity:0;
+    transition: opacity 3s;
+  }
+  .logo1:hover:after {
+    opacity: 3;
+    transition: opacity 1s 1s;
+  }
+
+  .block0 H1{
+    color: red;
+    font-size: 350%;
+  }
+
+H1{
+  font-family: font-family: Big Caslon,Book Antiqua,Palatino Linotype,Georgia,serif;
+    font-size: 60px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 26.4px;
+  color: red;
+  margin: 1%;
+}
+.par{
+  text-align:center;
+  color: red;
+  font-size: 150%;
+}
+
+</style>
+</head>
+
+
+
+<body>
+
+<div class="conteneur0">
+<a id="page0"></a>
+
+<div class="block0">
+  <div class=logo1></div></br>
+
+  <H1>ANIMATION CSS</H1></br>
+
+  <p class="par"> Animation NG</p>
+
+</div>
+        
+</body>
+</html>
