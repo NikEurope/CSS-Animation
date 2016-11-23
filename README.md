@@ -9,6 +9,8 @@ HOVER https://htmlpreview.github.io/?https://github.com/NikEurope/cssanimation/b
 
 Color https://htmlpreview.github.io/?https://github.com/NikEurope/cssanimation/blob/master/color.html
 
+Border https://htmlpreview.github.io/?https://github.com/NikEurope/CSS-Hover-Animation/blob/master/border.html
+
 Croitre https://htmlpreview.github.io/?https://github.com/NikEurope/CSS-Hover-Animation/blob/master/croitre.html
 
 3D Ombre https://htmlpreview.github.io/?https://github.com/NikEurope/CSS-Hover-Animation/blob/master/ombre.html
